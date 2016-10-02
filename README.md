@@ -2,6 +2,7 @@
 
 Bienvenue sur le dépot de formation de la DSI d'Etic.
 
+
 ## Les étapes pour contribuer à un projet :
 
 ### Pour démarrer sur un projet
@@ -59,14 +60,20 @@ Bienvenue sur le dépot de formation de la DSI d'Etic.
 	git fetch upstream
 ```
 
+- Aller sur la branche develop locale avec la commande :
+```
+	git checkout develop
+```
+
 - Merger l'état du dépôt original avec la commande :
 ```
-	git merge upstream/<nom de la branche>
+	git merge upstream/develop
 ```
 
 - Push les modifications sur le fork avec la commande :
 ```
-	git push origin <nom de la branche>
+	git push origin develop
 ```
+
 
 
