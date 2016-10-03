@@ -14,6 +14,11 @@ Bienvenue sur le dépot de formation de la DSI d'Etic.
 	git clone <adresse du fork>
 ```
 
+- Aller dans le dossier nouvellement créé :
+```
+	cd <nom du depot>
+```
+
 - Configurer le remote upstream avec la commande :
 ```
 	git remote add upstream <adresse du dépôt original>
