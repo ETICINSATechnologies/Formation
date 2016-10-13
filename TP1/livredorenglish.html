@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" id="mycss" href="stylesheet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <script src="script.js"></script>
+    <title>Express yourself</title>
+</head>
+<body>
+
+<ul id="menu">
+    <li ><a href="accueilenglish.html" title="Accueil">Home</a></li>
+    <li><a href="aproposenglish.html" title="A propos">About me</a></li>
+    <li class="active"><a href="livredorenglish.html" title="Livre d'or">Express yourself</a></li>
+    <li style="float:right"><a href="livredor.html">
+        <i class="fa fa-globe"></i> English</a></li>
+</ul>
+<div id="main">
+
+    <input type="checkbox" id="mode" onclick="switchStyle()" /> <label for="mode" id="modejour">Day mode  </label><br />
+    <div class="cadremain">
+
+        <div class="introduction">
+            Here you can sign up and comment about the film or the website
+        </div>
+
+        <div id="inscription">
+
+            <p class="titre">Sign up</p>
+            <form>
+                Nickname :<br>
+                <input type="text" name="pseudo"><br><br>
+                Email :<br>
+                <input type="email" name="email"><br><br>
+                Password :<br>
+                <input type="password" name="mdp"><br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+
+        <div id="commentaire">
+            <p class="titre">Comment</p>
+            <form>
+                Title :<br>
+                <input type="text" name="titrecom"  size="88"><br><br>
+                Your comment :<br>
+                <textarea name="message" rows="10" cols="90"></textarea><br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

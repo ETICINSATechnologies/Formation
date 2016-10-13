@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" id="mycss" href="stylesheet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <script src="script.js"></script>
+    <title>Accueil</title>
+</head>
+<body>
+
+<ul id="menu">
+    <li class="active"><a href="accueil.html" title="Accueil">Accueil</a></li>
+    <li><a href="apropos.html" title="A propos">A propos</a></li>
+    <li><a href="livredor.html" title="Livre d'or">Livre d'or</a></li>
+    <li style="float:right"><a href="accueilenglish.html">
+        <i class="fa fa-globe"></i> Français</a></li>
+</ul>
+
+<div id="main">
+    <input type="checkbox" id="mode" onclick="switchStyle()" /> <label for="mode" id="modejour">Mode jour  </label><br />
+    <div id="logo">
+        <img src="images/gantz_logo_original.png" alt="Logo GANTZ">
+    </div>
+    <div>
+        <p class="synopsis" onclick="Showsynopsis()">
+            <i class="fa fa-caret-right"  id="iconsynopsis" ></i> Synopsis & Informations</p>
+        <div id="panelsynopsis">
+            <p>Kei Kurono et son ami d'enfance Masaru Katō meurent écrasés à la gare du métro. Ils se retrouvent alors mystérieusement
+                dans une pièce d'appartement au centre de laquelle se trouve une étrange sphère noire répondant au nom de Gantz et n'y
+                sont pas seuls dans cette salle. Ils ne cesseront de s'interroger sur ce lieu, sur leur situation, et le sens de ce
+                qui leur arrive, puisqu'ils devront mener d'étranges « missions » toutes plus dangereuses les unes que les autres.<br><br><br>
+
+
+                Gantz ou Gantz au commencement (ガンツ, Gantsu) est un film de science-fiction horrifique japonais réalisé par Shinsuke Satō
+                sur le scénario de Yūsuke Watanabe d'après l'œuvre du même titre de Hiroya Oku, mettant en scène Kazunari Ninomiya et Ken'ichi Matsuyama.
+                Produit par Nippon Television Network Corporation, ce film est sorti le 29 novembre 2010 en avant-première à Tokyo et le 29 janvier 2011
+                partout au Japon.<br><br>
+
+                Une suite Gantz, Perfect Answer, par la même équipe est sortie le 23 avril 2011 au Japon.<br><br>
+
+                En France, distribué par Wild Side Video ce long-métrage est sorti en DVD et Blu-Ray, le 6 septembre 2011, sous le titre Gantz au commencement.<br></p>
+
+        </div>
+    </div>
+    <div>
+        <p class="bandeannonce" onclick="Showbandeannonce()">
+            <i class="fa fa-caret-right"  id="iconbande" ></i>  Bande-annonce</p>
+        <div id="panelvideo">
+            <div id="video">
+                <iframe src='http://www.allocine.fr/_video/iblogvision.aspx?cmedia=19234440' style='width:480px; height:270px; '>
+                </iframe>
+                <br />
+            </div>
+        </div>
+        <div>
+            <p class="images" onclick="Showimages()">
+                <i class="fa fa-caret-right" id="iconimages" ></i>  Images du film</p>
+            <div id="panelimages">
+                <p class="introduction">Cliquez sur une image pour l'agrandir <br> Cliquez une deuxième fois pour la réduire</p>
+                <div class="img petit" id="img1" >
+                    <img  onclick="zoom('img1',180)" src="images/gantz-drama-film-2-ban.jpg">
+                </div>
+                <div class="img petit" id="img2">
+                    <img  onclick="zoom('img2',180)" src="images/gantz-live-screen-5.jpg">
+                </div>
+                <div class="img petit" id="img3">
+                    <img onclick="zoom('img3',180)" src="images/Gantz_3.jpg">
+                </div>
+                <div class="img petit" id="img4">
+                    <img onclick="zoom('img4',180)" src="images/gantzrev2.jpg">
+                </div>
+            </div>
+
+
+            <p class="perso" onclick="Showperso()">
+                <i class="fa fa-caret-right" id="iconperso" ></i>  Casting</p>
+            <div id="panelperso">
+
+                <p>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Personnages</th>
+                        <th>Acteurs</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Kei Kurono</td>
+                        <td>Kazunari Ninomiya</td>
+                    </tr>
+                    <tr>
+                        <td>Masaru Katō</td>
+                        <td>Ken'ichi Matsuyama</td>
+                    </tr>
+                    <tr>
+                        <td>Kei Kishimoto</td>
+                        <td>Watanabe Natsuna</td>
+                    </tr>
+                    <tr>
+                        <td>Joichiro Nishi</td>
+                        <td>Kanata Hongō</td>
+                    </tr>
+                    <tr>
+                        <td>Yoshikazu Suzuki</td>
+                        <td>Tomorowo Taguchi</td>
+                    </tr>
+                    <tr>
+                        <td>Hiroto Sakurai</td>
+                        <td>Shun'ya Shiraishi</td>
+                    </tr>
+                    <tr>
+                        <td>Tae Kojima</td>
+                        <td>Yuriko Yoshitaka</td>
+                    </tr>
+                    <tr>
+                        <td>Masamitsu Shigeta</td>
+                        <td>Takayuki Yamada</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            </p>
+
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
