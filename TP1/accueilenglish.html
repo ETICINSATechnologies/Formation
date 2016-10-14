@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" id="mycss" href="stylesheet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <script src="script.js"></script>
+    <title>Home</title>
+</head>
+<body>
+
+<ul id="menu">
+    <li class="active"><a href="accueilenglish.html" title="Accueil">Home</a></li>
+    <li><a href="aproposenglish.html" title="A propos">About me</a></li>
+    <li><a href="livredorenglish.html" title="Livre d'or">Express yourself</a></li>
+    <li style="float:right"><a href="accueil.html">
+        <i class="fa fa-globe"></i> English</a></li>
+</ul>
+
+<div id="main">
+    <input type="checkbox" id="mode" onclick="switchStyle()" /> <label for="mode" id="modejour">Day mode  </label><br />
+    <div id="logo">
+        <img src="images/gantz_logo_original.png" alt="Logo GANTZ">
+    </div>
+    <div>
+        <p class="synopsis" onclick="Showsynopsis()">
+            <i class="fa fa-caret-right"  id="iconsynopsis" ></i> Plot & Informations</p>
+        <div id="panelsynopsis">
+            <p>College student Kei Kurono (Kazunari Ninomiya) notices former childhood friend Masaru Kato (Kenichi Matsuyama) helping a drunk man who
+                fell from a subway platform. Kei Kurono then jumps down to help his childhood friend. A few moments later, the subway train rapidly approaches
+                and both men look on helplessly on as their life is about to end.<br><br>
+
+                The next moment, Kei Kurono and Masaru Kato finds themselves in a strange apartment with a mysterious giant black sphere and others
+                who have recently died. The massive black sphere in the center of the living room is "GANTZ". GANTZ then assigns the people gathered
+                in the room on missions to exterminate aliens. They are given a set time and if successful will receive points. A total of 100 points
+                will allow them to leave this purgatory like place or send someone else back to life. If they fail, they can perish forever ...<br><br><br>
+
+            </p>
+
+        </div>
+    </div>
+    <div>
+        <p class="bandeannonce" onclick="Showbandeannonce()">
+            <i class="fa fa-caret-right"  id="iconbande" ></i>  Trailer</p>
+        <div id="panelvideo">
+            <div id="video">
+                <iframe src='http://www.allocine.fr/_video/iblogvision.aspx?cmedia=19234440' style='width:480px; height:270px; '>
+                </iframe>
+                <br />
+            </div>
+        </div>
+        <div>
+            <p class="images" onclick="Showimages()">
+                <i class="fa fa-caret-right" id="iconimages" ></i>  Images</p>
+            <div id="panelimages">
+                <p class="introduction">Click on an image to zoom. <br> Click one more time to make it come back to its original size</p>
+                <div class="img petit" id="img1" >
+                    <img  onclick="zoom('img1',180)" src="images/gantz-drama-film-2-ban.jpg">
+                </div>
+                <div class="img petit" id="img2">
+                    <img  onclick="zoom('img2',180)" src="images/gantz-live-screen-5.jpg">
+                </div>
+                <div class="img petit" id="img3">
+                    <img onclick="zoom('img3',180)" src="images/Gantz_3.jpg">
+                </div>
+                <div class="img petit" id="img4">
+                    <img onclick="zoom('img4',180)" src="images/gantzrev2.jpg">
+                </div>
+            </div>
+
+
+            <p class="perso" onclick="Showperso()">
+                <i class="fa fa-caret-right" id="iconperso" ></i>  Cast</p>
+            <div id="panelperso">
+
+                <p>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Characters</th>
+                        <th>Actors</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Kei Kurono</td>
+                        <td>Kazunari Ninomiya</td>
+                    </tr>
+                    <tr>
+                        <td>Masaru Katō</td>
+                        <td>Ken'ichi Matsuyama</td>
+                    </tr>
+                    <tr>
+                        <td>Kei Kishimoto</td>
+                        <td>Watanabe Natsuna</td>
+                    </tr>
+                    <tr>
+                        <td>Joichiro Nishi</td>
+                        <td>Kanata Hongō</td>
+                    </tr>
+                    <tr>
+                        <td>Yoshikazu Suzuki</td>
+                        <td>Tomorowo Taguchi</td>
+                    </tr>
+                    <tr>
+                        <td>Hiroto Sakurai</td>
+                        <td>Shun'ya Shiraishi</td>
+                    </tr>
+                    <tr>
+                        <td>Tae Kojima</td>
+                        <td>Yuriko Yoshitaka</td>
+                    </tr>
+                    <tr>
+                        <td>Masamitsu Shigeta</td>
+                        <td>Takayuki Yamada</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            </p>
+
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
