@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <module fileurl="file://$PROJECT_DIR$/.idea/Site.iml" filepath="$PROJECT_DIR$/.idea/Site.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled1.iml" filepath="$PROJECT_DIR$/.idea/untitled1.iml" />
+>>>>>>> commit du TP1avec Php
     </modules>
   </component>
 </project>
