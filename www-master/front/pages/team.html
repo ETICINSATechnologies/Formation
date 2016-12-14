@@ -1,0 +1,225 @@
+
+<div class="ui center aligned bg-header" id="fade">
+    <h1 class="title-header" id="scale">{EQUIPE}</h1>
+</div>
+
+<div class="ui vertical stripe segment">
+  <div class="ui stackable grid centered aligned container">
+
+    <div class="row">
+      <div class="six wide column center aligned" id="fade">
+        <img alt="img" class="ui top aligned medium circular image" src="front/assets/team/pres.jpg">
+      </div>
+      <div class="six wide column center aligned">
+        <div class="ui vertical stripe segment" id="fade">
+            <h1 class="ui header">
+              {PRESIDENT_H1}
+            </h1>
+            <div class="ui divider"></div>
+            <p><i>
+            {PRESIDENT_P}
+            </i><br><br>
+            <strong>{PRESIDENT_SIGN}</strong>
+            </p>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="ui horizontal divider" id="fade">
+          <h1 class="text-green">{BUREAU}</h1>
+      </div>
+    </div>
+
+    <div class="row">
+    <div id="translatable">
+      <div id="bureau_members" class="ui four cards stackable centered">
+        <!-- les cartes des membres du bureau seront placées ici -->
+      </div>
+    </div>
+    </div>
+
+    <div class="row">
+      <div class="ui horizontal divider" id="fade">
+          <h1 class="text-green">{CA}</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div id="ca_members" class ="ui four cards stackable centered aligned">
+        <!-- les cartes des membres du CA seront placées ici -->
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="ui horizontal divider" id="fade">
+        <h1 class="text-green">{EQUIPES}</h1>
+      </div>
+    </div>
+
+    <div class="row" id="fade">
+      <div class="five wide column center aligned">
+        <h2 class="ui icon header" id="scale">
+          <i class="database icon"></i>
+          <div class="content">
+            {DSI}
+            <div class="sub header">{DESC_DSI}</div>
+          </div>
+        </h2>
+      </div>
+      <div class="six wide column center aligned">
+        <h2 class="ui icon header" id="scale">
+          <i class="checkmark icon"></i>
+          <div class="content">
+            {QUALITE}
+            <div class="sub header">{DESC_QUALITE}</div>
+          </div>
+        </h2>
+      </div>
+      <div class="five wide column center aligned">
+        <h2 class="ui icon header" id="scale">
+          <i class="line chart icon"></i>
+          <div class="content">
+            {UA}
+            <div class="sub header">{DESC_UA}</div>
+          </div>
+        </h2>
+        </div>
+    </div>
+    <div class="row" id="fade">
+      <div class="five wide column center aligned">
+        <h2 class="ui icon header" id="scale">
+          <i class="comments outline icon"></i>
+          <div class="content">
+            {GRC}
+            <div class="sub header">{DESC_GRC}</div>
+          </div>
+        </h2>
+      </div>
+      <div class="six wide column center aligned">
+        <h2 class="ui icon header" id="scale">
+          <i class="announcement icon"></i>
+          <div class="content">
+            {COM}
+            <div class="sub header">{DESC_COM}</div>
+          </div>
+        </h2>
+      </div>
+      <div class="five wide column center aligned">
+        <h2 class="ui icon header" id="scale">
+          <i class="bar chart icon"></i>
+          <div class="content">
+            {TRESOR}
+            <div class="sub header">{DESC_TRESO}</div>
+          </div>
+        </h2>
+      </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+
+    // défintion des listes
+    var bureau_mems = [
+      makeMember('Martin Delbecque','{PRES}','pres.jpg','https://www.linkedin.com/in/martindelbecque'),
+      makeMember('Adrien Lepic','{VP}','vp.jpg','https://www.linkedin.com/in/adrien-lepic-494258112'),
+      makeMember('Pauline Geslin','{SG}','sg.jpg','https://www.linkedin.com/in/pauline-geslin-86b685103'),
+      makeMember('Linda Benrighi','{TRESO}','treso.jpg','https://www.linkedin.com/in/linda-benrighi-8a8b8410a')
+    ];
+    var ca_mems = [
+      makeMember('Antoine Lambert','{RESP_UA_V}','resp_ventes.jpg','https://www.linkedin.com/in/antoine-lambert-4ba003115'),
+      makeMember('Kim Bertrand','{RESP_QUALITE}','resp_qual.jpg','https://www.linkedin.com/in/kim-bertrand-b77b8110a'),
+      makeMember('Nicolas Sorin','{RESP_DSI}','resp_dsi.jpg','https://www.linkedin.com/in/nicolas-sorin-051a85109'),
+      makeMember('Luc Cristol','{VTRESO}','vtreso.jpg','https://www.linkedin.com/in/luc-cristol-ab8b8b10a'),
+      makeMember('Eline Achard','{RESP_UA_RM}','resp_rm.jpg','https://www.linkedin.com/in/eline-achard-b45047114'),
+      makeMember('Maxime Pinon','{RESP_GRC}','resp_grc.jpg','https://www.linkedin.com/in/maxime-pinon-5b976611a'),
+      makeMember('Noémie Bouillod','{RESP_COM}','resp_com.jpg','https://www.linkedin.com/in/noémie-bouillod-80456a110'),
+    ];
+
+    // création des cartes
+    addBureauMembers(bureau_mems);
+    addCAMembers(ca_mems);
+
+    // traduction
+    translate(function(){
+      //$('.card').hide();
+      $('.card').transition({
+          animation  : 'scale',
+          duration   : '0'
+      });
+      $('.card').transition('scale');
+      $('.image').dimmer({on: 'hover'});
+    });
+
+  });
+
+  function makeMember(name, position, picture, linkedinUrl) {
+    return {
+      name: name,
+      position: position,
+      picture: picture,
+      linkedinUrl: linkedinUrl
+    }
+  }
+
+  function addBureauMembers(members) {
+    for (var i = 0; i < members.length; i++) {
+      var m = members[i];
+      addBureauMember(m.name,m.position,m.picture,m.linkedinUrl);
+     }
+  }
+
+  function addCAMembers(members) {
+    for (var i = 0; i < members.length; i++) {
+      var m = members[i];
+      addCAMember(m.name,m.position,m.picture,m.linkedinUrl);
+     }
+  }
+
+  function addBureauMember(name, position, picture, linkedinUrl) {
+    $('#bureau_members').append(createCard(name, position, picture, linkedinUrl));
+  }
+
+  function addCAMember(name, position, picture, linkedinUrl) {
+    $('#ca_members').append(createCard(name, position, picture, linkedinUrl));
+  }
+
+  /*function createCard(name, position, picture, linkedinUrl) {
+    return ' \
+      <div class="green card"> \
+        <div class="image"> \
+          <img alt="img" src="./front/assets/team/'+picture+'" > \
+        </div> \
+        <div class="content"> \
+          <a class="header" href="'+linkedinUrl+'">'+name+'</a> \
+          <div class="meta"> \
+            <span class="date">'+position+'</span> \
+          </div> \
+        </div> \
+      </div>';
+  }*/
+
+  function createCard(name, position, picture, linkedinUrl) {
+    return '<div class="card"> \
+          <div class="blurring dimmable image" style="background-color:#FFFFFF;"> \
+            <div class="ui dimmer"> \
+              <div class="content"> \
+                <div class="center aligned column"> \
+                  <h1 class="huge header">'+name+'</h1> \
+                  <h3>'+position+'</h3>\
+                  <div class="ui divider"></div>\
+                  <a href="'+linkedinUrl+'" target="_blank" class="ui inverted icon button" id="Button_'+name+'"><i class="linkedin icon" style="color:white;"></i></a> \
+                </div> \
+              </div> \
+            </div> \
+            <img alt="img" src="./front/assets/team/'+picture+'" > \
+          </div> \
+    </div>';
+  }
+</script>

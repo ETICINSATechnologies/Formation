@@ -1,0 +1,69 @@
+<div class="ui center aligned bg-header" id="fade">
+    <h1 class="title-header" id="scale">{DEVIS_HEADER}</h1>
+</div>
+
+ <div class="ui main text container">
+	<div id="errors_container">
+	</div>
+<br>
+    <div class="ui small form" id="fade">
+	    <div class="two fields">
+		    <div id="field_lastname" class="field required">
+		    	<!--<label>{DEVIS_LASTNAME}</label>-->
+		    	<input id="in_lastname" placeholder="{DEVIS_LASTNAME}" type="text">
+		    </div>
+		    <div id="field_firstname" class="field required">
+		    	<!--<label>{DEVIS_FIRSTNAME}</label>-->
+		    	<input id="in_firstname" placeholder="{DEVIS_FIRSTNAME}" type="text">
+		    </div>
+	  	</div>
+	  	<div class="three fields">
+		    <div id="field_firm" class="field required">
+		    	<!--<label>{DEVIS_FIRM}</label>-->
+		    	<input id="in_firm" placeholder="{DEVIS_FIRM}" type="text">
+		    </div>
+		    <div id="field_mail" class="field required">
+		    	<!--<label>{DEVIS_MAIL}</label>-->
+		    	<input id="in_mail" placeholder="{DEVIS_MAIL}" type="text">
+		    </div>
+		    <div id="field_phone" class="field required">
+		    	<!--<label>{DEVIS_PHONE}</label>-->
+		    	<input id="in_phone" placeholder="{DEVIS_PHONE}" type="text">
+		    </div>
+	  	</div>
+	  	<div id="field_subject" class="field required">
+			<!--<label>{DEVIS_SUBJECT}</label>-->
+			<input id="in_subject" placeholder="{DEVIS_SUBJECT}" type="text">
+		</div>
+		<div id="field_message" class="field required">
+    		<label>{DEVIS_MESSAGE}</label>
+    		<textarea id="in_message" style="height: 132px;"></textarea>
+  		</div>
+		<div class="two fields">
+		    <div id="field_budget" class="field">
+		    	<!--<label>{DEVIS_PLANNED_BUDGET}</label>-->
+		    	<input id="in_budget" placeholder="{DEVIS_PLANNED_BUDGET}" type="text">
+		    </div>
+		    <div id="field_duration" class="field">
+		    	<!--<label>{DEVIS_PLANNED_DURATION}</label>-->
+		    	<input id="in_duration" placeholder="{DEVIS_PLANNED_DURATION}" type="text">
+		    </div>
+	  	</div>
+	  	<div class="field" id="captcha_container">
+	        <!-- captcha will go here --> 
+	    </div>
+	    <div id="field_captcha" class="field required">
+		    	<!--<label>{DEVIS_CAPTCHA_CODE}</label>-->
+		    	<input id="in_captcha" placeholder="{DEVIS_CAPTCHA_CODE}" type="text">
+		    </div>
+	    <div class="field">
+		  	<div class="ui fluid buttons">
+				<button class="ui tiny button" onClick="reset();">{DEVIS_RESET}</button>
+				<button class="ui positive tiny button" onClick="submit();">{DEVIS_SUBMIT}</button>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="front/pages/scripts/devis.js"></script>
+
+

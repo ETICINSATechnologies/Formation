@@ -1,0 +1,222 @@
+<!--completer le body-->
+<script type="text/javascript" src="./front/pages/scripts/image_crop.js"></script>
+<script type="text/javascript"> $(document).ready(function(){$('.ui.embed').embed();}); </script>
+<div class="cropper home-header">
+		<div class="ui centered fluid image" style="width:50%; padding:6%;" id="fade">
+			<a href="#scrolldown"><img alt="img" src="front/assets/home/LogoETIC2.png"></a>
+		</div>
+</div>
+
+<div class="ui center aligned vertical stripe segment" id="scrolldown">
+			<br>
+			<h1 class="ui huge center aligned header" id="fade">
+  				{HOME_SKILLS}
+  				<div class="sub header">{HOME_SKILLS_SUB}</div>
+			</h1>
+			<br>
+			<div class="ui middle aligned relaxed grid container">
+			<p>{HOME_SKILLS_P}</p>
+			</div>
+			<br><br>
+			<a href="{LINK_SKILLS}">
+				<div class="ui center aligned tiny images" id="fade">
+					<img alt="img" class="ui image" src="./front/assets/skills/GM.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/IF.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/TC.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/GEN.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/GE.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/GI.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/GCU.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/SGM.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/BS.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/TR.svg">
+					<img alt="img" class="ui image" src="./front/assets/skills/SC.svg">
+				</div>
+			</a>
+			<br>
+			<div class="center aligned column">
+			          <a class="ui green huge button" href="{LINK_SKILLS}" id="pulse">{HOME_SKILLS_DET}</a>
+			</div>
+			<br>
+</div>
+<div class="ui vertical stripe segment">
+    <div class="ui middle aligned stackable grid container">
+		<div class="row">
+			<div class="ui divider"></div>
+		</div>
+		<div class="row" >
+	  		<!-- <div class = "ui center aligned four statistics" id="fade"> -->
+	  			<div class="center aligned four wide column" id="slow_scale">
+		  			<div class = "ui statistic">
+					  <div class="value">
+					    <span class="count">35</span>
+					  </div>
+					  <div class="label"id="exp_stat">
+ 					    {HOME_STAT_EXPERIENCE}
+					  </div>
+				  	</div>
+			  	</div>
+			  	<!--<div class="center aligned four wide column" id="fade">
+		  			<div class = "ui statistic">
+					  <div class="value">
+					    TOP 4
+					  </div>
+					  <div class="label">
+					    {HOME_STAT_TOP}
+					  </div>
+				  	</div>
+			  	</div> -->
+			  	<div class="center aligned four wide column" id="slow_scale">
+		  			<div class = "ui statistic">
+					  <div class="value" id="top_stat">
+					    N°<span class="countback">1</span>
+					  </div>
+					  <div class="label">
+					    {HOME_STAT_ENG}
+					  </div>
+				  	</div>
+			  	</div>
+			  	<div class="center aligned four wide column" id="slow_scale">
+		  			<div class = "ui statistic">
+					  <div class="value" id="skills_stat">
+					    <span class="count">11</span>
+					  </div>
+					  <div class="label">
+					    {HOME_STAT_DOMAINES}
+					  </div>
+				  	</div>
+			  	</div>
+			  	<div class="center aligned four wide column" id="slow_scale">
+		  			<div class = "ui statistic">
+					  <div class="value" id="satisf_stat">
+					    <span class="count">93</span>%
+					  </div>
+					  <div class="label">
+					    {HOME_STAT_SATISFACTION}
+					  </div>
+				  	</div>
+			  	</div>
+		</div>
+		<div class="row">
+			<div class="ui divider"></div>
+		</div>
+	</div>
+</div>
+<div class="ui center aligned vertical stripe segment">
+	<br>
+		<h1 class="ui huge center aligned header" id="fade">
+  			{HOME_TEMOIGNAGE}
+  			<div class="sub header">{HOME_TEMOIGNAGE_SUB}</div>
+		</h1>
+	 <div class="ui middle aligned stackable grid container" id="fade">
+                  <div class="row">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="ui vertical stripe segment">
+                                      <p class="swiper-part">{CONFIANCE_QUOTE_1}</p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="ui vertical stripe segment">
+                                      <p class="swiper-part">{CONFIANCE_QUOTE_2}</p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="ui vertical stripe segment">
+                                      <p class="swiper-part">{CONFIANCE_QUOTE_3}</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                  </div>
+                  <div class="row">
+                  	<div class="center aligned column">
+							<a class="ui green huge button" href="{LINK_TRUST}" id="pulse">{HOME_TRUST}</a>
+					</div>
+                  </div>
+              </div>
+              <br>
+</div>
+<div class="ui center aligned vertical stripe segment">
+	<div class="ui center aligned stackable grid container">
+		<div class="row">
+			<div class="ui divider"></div>
+		</div>
+		<div class="row" id="fade" >
+			<div class="twelve wide column">
+				<div class="ui embed" data-source="vimeo" data-id="50134844"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="ui divider"></div>
+		</div>
+	</div>
+</div>
+
+<div class="ui center aligned vertical stripe segment">
+<br>
+		<h1 class="ui huge center aligned header" id="fade">
+  			{HOME_PALMARES_H1}
+  			<div class="sub header">{HOME_PALMARES_SUB}</div>
+		</h1>
+<br>
+<br>
+	<div class="ui middle aligned stackable grid container">
+		<div class="row">
+			<div class="two wide column">
+		    	<img alt="img" src="./front/assets/home/trophy1.png" class="ui big image">
+			</div>
+			<div class="six wide left aligned column" id="fade">
+				<h3>{HOME_PALMARES_1}</h3>
+			</div>
+			<div class="six wide right aligned column" id="fade">
+				<h3>{HOME_PALMARES_2}</h3>
+			</div>
+			<div class="two wide column">
+		    	<img alt="img" src="./front/assets/home/trophy2.png" class="ui big image">
+			</div>
+	        </div>
+	</div>
+
+</div>
+
+
+
+<br>
+
+<!--
+  <div class="ui grid">
+  		<div class="two wide column">
+		    <img alt="img" src="./front/assets/home/trophy1.png" class="ui image">
+		</div>
+		<div class="fourteen wide column" id="fade">
+			<p style="text-align: justify; font-size: 32;">{HOME_PALMARES_1}</p>
+		</div>
+			</div>
+
+  	<div class="ui grid">
+  		<div class="fourteen wide column" id="fade">
+			<p style="text-align: justify; font-size: 32;	">{HOME_PALMARES_2}</p>
+		</div>
+		<div class="two wide column" >
+		    <img alt="img" src="./front/assets/home/trophy2.png" class="ui image">
+		</div>
+	</div>
+
+	<div class="ui grid" >
+  		<div class="two wide column">
+		    <img alt="img" src="./front/assets/home/trophy3.png" class="ui image">
+		</div>
+		<div class="fourteen wide column" id="fade">
+			<p style="text-align: justify; font-size: 32;	">{HOME_PALMARES_3}</p>
+		</div>
+	</div>
+	-->
+
+<script type="text/javascript" src="front/pages/scripts/home_swiper.js"></script>

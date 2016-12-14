@@ -1,0 +1,102 @@
+<div class="ui center aligned bg-header" id="fade">
+      <h1 class="title-header" id="scale">{COMPETENCES}</h1>
+  </div>
+
+<div id="translatable">
+
+  <div class="ui hidden divider"></div>
+
+  <div class="ui five column center aligned stackable grid container">
+    <div id="skills_container" class ="six column row">
+    <!-- Les cartes des competences seront générés ici -->
+    </div>
+    <div class="row">
+      <div class="ui divider"></div>
+    </div>
+    <div class="row">
+        <div class="sixteen wide center aligned column">
+          <a class="ui green huge button" href="{LINK_DEVIS}" id="pulse">{DEVIS}</a>
+        </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  // liste des compétences
+  var skills = ['GM','IF','GEN','GCU','GI','TC','SGM','GE','TR','SC','BS'];
+  skills = skills.reverse();
+
+  // initialisation des cartes de compétence
+  addSkillColumns(skills);
+
+  // on appelle la methode de traduction
+  translate(function(){
+    // initialisation des cartes
+    $('.card').transition({
+            animation : 'scale',
+            duration : '800ms'
+          });;
+    $('.special.cards .image').dimmer({on: 'hover'});
+    initModals(skills);
+  });
+});
+
+function addSkillColumns(skills) {
+  for (var i = skills.length - 1; i >= 0; i--) {
+    addSkillColumn(skills[i]);
+  }
+}
+
+function initModals(skills) {
+  for (var i = skills.length - 1; i >= 0; i--) {
+    initModal(skills[i]);
+  }
+}
+
+function initModal(skill) {
+  $('#Button_'+skill).click(function(){
+        $('#modaldiv_'+skill).modal('show');
+  });
+}
+
+function addSkillColumn(skill) {
+  $('#skills_container').append(' \
+    <div class="column center aligned"> \
+      <p> \
+      <div class="ui special cards" id="card_'+skill+'"> \
+        <div class="card" height:165px;> \
+          <div class="blurring dimmable image" style="background-color:#FFFFFF;"> \
+            <div class="ui dimmer"> \
+              <div class="content"> \
+                <div class="center"> \
+                  <div class="ui inverted button" id="Button_'+skill+'">{COMPETENCES_MORE}</div> \
+                </div> \
+              </div> \
+            </div> \
+            <img alt="img" src="./front/assets/skills/'+skill+'.svg"> \
+          </div> \
+          <div class="content"> \
+            <a class="ui white inverted center aligned header">{COMPETENCES_H2_'+skill+'}</a> \
+          </div> \
+        </div> \
+      </div> \
+      </p> \
+    </div> \
+    <div id="modaldiv_'+skill+'" class="ui modal"> \
+      <div class="header"> \
+        {COMPETENCES_H2_'+skill+'} \
+      </div> \
+      <div class="image content"> \
+        <div class="ui small image"> \
+          <img alt="img" src="./front/assets/skills/'+skill+'.svg"> \
+        </div> \
+        <div class="description"> \
+          <p>{COMPETENCES_P_'+skill+'}</p> \
+        </div> \
+      </div> \
+      {COMPETENCES_PLUS_'+skill+'}\
+    </div>');
+    $('.card').hide();
+}
+</script>
