@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" id="mycss" href="stylesheet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <script src="script.js"></script>
+    <title>Livre d'or</title>
+</head>
+<body>
+
+<ul id="menu">
+    <li ><a href="accueil.html" title="Accueil">Accueil</a></li>
+    <li><a href="apropos.html" title="A propos">A propos</a></li>
+    <li class="active"><a href="livredor.html" title="Livre d'or">Livre d'or</a></li>
+    <li style="float:right"><a href="livredorenglish.html">
+        <i class="fa fa-globe"></i> Français</a></li>
+</ul>
+<div id="main">
+
+    <input type="checkbox" id="mode" onclick="switchStyle()" /> <label for="mode" id="modejour">Mode jour  </label><br />
+    <div class="cadremain">
+
+        <div class="introduction">
+            Ici vous pouvez vous inscrire et poster un commentaire à propos du film ou du site
+        </div>
+
+        <div id="inscription">
+
+            <p class="titre">S'inscrire</p>
+            <form>
+                Nom (Pseudo) :<br>
+                <input type="text" name="pseudo"><br><br>
+                Email :<br>
+                <input type="email" name="email"><br><br>
+                Mot de passe :<br>
+                <input type="password" name="mdp"><br><br>
+                <input type="submit" value="Envoyer">
+            </form>
+        </div>
+
+        <div id="commentaire">
+            <p class="titre">Commentaire</p>
+            <form>
+                Titre :<br>
+                <input type="text" name="titrecom"  size="88"><br><br>
+                Votre commentaire :<br>
+                <textarea name="message" rows="10" cols="90"></textarea><br><br>
+                <input type="submit" value="Poster">
+            </form>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
