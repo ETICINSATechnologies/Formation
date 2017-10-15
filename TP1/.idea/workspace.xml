@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <list default="true" id="16839837-a23a-45b7-8d8e-9cd997e18d82" name="Default" comment="" />
     <ignored path="Site.iws" />
+=======
+    <list default="true" id="bd6d6f39-72de-4188-a00b-e28fcef65e06" name="Default" comment="" />
+    <ignored path="untitled1.iws" />
+>>>>>>> commit du TP1avec Php
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +22,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <favorites_list name="Site" />
   </component>
   <component name="FileEditorManager">
@@ -29,31 +35,82 @@
               <folding>
                 <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connexion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connexion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <folding>
+                <marker date="1476919738244" expanded="true" signature="236:259" ph="..." />
+                <marker date="1476919738244" expanded="true" signature="429:448" ph="..." />
+>>>>>>> commit du TP1avec Php
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="accueilenglish.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/accueilenglish.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding />
+=======
+      <file leaf-file-name="deconnexion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deconnexion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="e#6#95#0#PHP" expanded="true" />
+              </folding>
+>>>>>>> commit du TP1avec Php
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding />
+=======
+      <file leaf-file-name="inscription.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inscription.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1476918795266" expanded="true" signature="408:1063" ph="..." />
+                <marker date="1476918795266" expanded="true" signature="419:602" ph="..." />
+                <marker date="1476918795266" expanded="true" signature="613:1063" ph="..." />
+                <marker date="1476918795266" expanded="true" signature="664:1063" ph="..." />
+                <marker date="1476918795266" expanded="true" signature="676:1013" ph="..." />
+              </folding>
+>>>>>>> commit du TP1avec Php
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="apropos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apropos.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,41 +118,109 @@
               <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+      <file leaf-file-name="fonctions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fonctions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="711">
+              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+              <folding>
+                <marker date="1476922776233" expanded="true" signature="168:200" ph="SELECT count... User" />
+                <marker date="1476922776233" expanded="true" signature="168:201" ph="SELECT count... User" />
+                <marker date="1476922776233" expanded="true" signature="168:213" ph="SELECT count... User" />
+                <marker date="1476922776233" expanded="true" signature="168:214" ph="SELECT count... User" />
+                <marker date="1476922776233" expanded="true" signature="168:217" ph="SELECT count... User" />
+                <marker date="1476922776233" expanded="true" signature="168:273" ph="SELECT count... User" />
+                <marker date="1476922776233" expanded="true" signature="405:473" ph="INSERT INTO User... " />
+                <marker date="1476922776233" expanded="true" signature="659:705" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="659:716" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="659:719" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="659:720" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="659:721" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="659:731" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="659:734" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="659:738" ph="INSERT INTO Comments... " />
+                <marker date="1476922776233" expanded="true" signature="929:947" ph="SELECT * FRO... User" />
+                <marker date="1476922776233" expanded="true" signature="929:948" ph="SELECT count... User" />
+                <marker date="1476922776233" expanded="true" signature="929:973" ph="SELECT * FRO... User" />
+                <marker date="1476922776233" expanded="true" signature="929:997" ph="SELECT * FRO... User" />
+                <marker date="1476922776233" expanded="true" signature="1396:1442" ph="SELECT * FRO... Comments" />
+                <marker date="1476922776233" expanded="true" signature="1748:1820" ph="..." />
+>>>>>>> commit du TP1avec Php
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="aproposenglish.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aproposenglish.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding />
+=======
+      <file leaf-file-name="TP1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TP1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+              <folding>
+                <marker date="1476920717961" expanded="true" signature="709:845" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="997:1006" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="2427:2556" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="2708:3782" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="2795:2902" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="2923:3025" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="3046:3144" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="3165:3274" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="3295:3395" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="3416:3524" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="3545:3644" ph="..." />
+                <marker date="1476920717961" expanded="true" signature="3665:3761" ph="..." />
+              </folding>
+>>>>>>> commit du TP1avec Php
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-3506">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="Livre d'or.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Livre d'or.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+>>>>>>> commit du TP1avec Php
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="stylesheetjour.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheetjour.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-344">
               <caret line="168" column="16" selection-start-line="168" selection-start-column="16" selection-end-line="168" selection-end-column="16" />
+=======
+      <file leaf-file-name="Présentation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Présentation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+>>>>>>> commit du TP1avec Php
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="livredor.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/livredor.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,16 +229,35 @@
               <folding>
                 <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="TPCSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TPCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+>>>>>>> commit du TP1avec Php
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <file leaf-file-name="livredorenglish.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/livredorenglish.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
               <folding />
+=======
+      <file leaf-file-name="hey.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hey.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc;n#trad#0" expanded="false" />
+              </folding>
+>>>>>>> commit du TP1avec Php
             </state>
           </provider>
         </entry>
@@ -124,14 +268,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
         <option value="HTML File" />
         <option value="JavaScript File" />
+=======
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+>>>>>>> commit du TP1avec Php
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
         <option value="$PROJECT_DIR$/stylesheetaccueiljour.css" />
         <option value="$PROJECT_DIR$/stylesheetaccueil.css" />
         <option value="$PROJECT_DIR$/accueil.html" />
@@ -142,21 +292,62 @@
         <option value="$PROJECT_DIR$/aproposenglish.html" />
         <option value="$PROJECT_DIR$/livredorenglish.html" />
         <option value="$PROJECT_DIR$/livredor.html" />
+=======
+        <option value="$PROJECT_DIR$/testcss.css" />
+        <option value="$PROJECT_DIR$/src/css/main.css" />
+        <option value="$PROJECT_DIR$/src/traitement.php" />
+        <option value="$PROJECT_DIR$/myfunction.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/.idea/Livre d'or.html" />
+        <option value="$PROJECT_DIR$/.idea/Présentation.html" />
+        <option value="$PROJECT_DIR$/hey.js" />
+        <option value="$PROJECT_DIR$/Livre d'or.html" />
+        <option value="$PROJECT_DIR$/Présentation.html" />
+        <option value="$PROJECT_DIR$/TP1.html" />
+        <option value="$PROJECT_DIR$/connexion.html" />
+        <option value="$PROJECT_DIR$/inscription.php" />
+        <option value="$PROJECT_DIR$/deconnexion.php" />
+        <option value="$PROJECT_DIR$/connexion.php" />
+        <option value="$PROJECT_DIR$/TP1.php" />
+        <option value="$PROJECT_DIR$/TPCSS.css" />
+        <option value="$PROJECT_DIR$/Présentation.php" />
+        <option value="$PROJECT_DIR$/Livre d'or.php" />
+        <option value="$PROJECT_DIR$/fonctions.php" />
+>>>>>>> commit du TP1avec Php
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+=======
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+>>>>>>> commit du TP1avec Php
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+=======
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="1056" />
+>>>>>>> commit du TP1avec Php
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -185,6 +376,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="ProjectPane">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
         <subPane>
           <PATH>
             <PATH_ELEMENT>
@@ -203,11 +395,15 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+=======
+        <subPane />
+>>>>>>> commit du TP1avec Php
       </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -221,6 +417,36 @@
     </key>
   </component>
   <component name="RunManager">
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.TP1.html">
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/test.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="TP1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/TP1.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="connexion.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/connexion.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="TP1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/TP1.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="Livre d'or.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/Livre d'or.php">
+      <method />
+    </configuration>
+>>>>>>> commit du TP1avec Php
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -267,12 +493,32 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
+=======
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.TP1.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.connexion.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.TP1.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Livre d'or.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.TP1.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Livre d'or.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.TP1.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.connexion.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+>>>>>>> commit du TP1avec Php
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <changelist id="16839837-a23a-45b7-8d8e-9cd997e18d82" name="Default" comment="" />
       <created>1475773951687</created>
       <option name="number" value="Default" />
@@ -284,10 +530,27 @@
       <workItem from="1476013106981" duration="6512000" />
       <workItem from="1476087382814" duration="2335000" />
       <workItem from="1476291399435" duration="6757000" />
+=======
+      <changelist id="bd6d6f39-72de-4188-a00b-e28fcef65e06" name="Default" comment="" />
+      <created>1475758926575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475758926575</updated>
+      <workItem from="1475758930275" duration="5633000" />
+      <workItem from="1476215444115" duration="5456000" />
+      <workItem from="1476221337150" duration="418000" />
+      <workItem from="1476253415671" duration="6263000" />
+      <workItem from="1476291745394" duration="745000" />
+      <workItem from="1476293105663" duration="7670000" />
+      <workItem from="1476361120889" duration="1897000" />
+      <workItem from="1476819539885" duration="3467000" />
+      <workItem from="1476914919796" duration="7857000" />
+>>>>>>> commit du TP1avec Php
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <option name="totallyTimeSpent" value="40175000" />
   </component>
   <component name="ToolWindowManager">
@@ -302,16 +565,64 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="39406000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27267876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> commit du TP1avec Php
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+=======
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27267876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+>>>>>>> commit du TP1avec Php
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -329,6 +640,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/accueil.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -336,18 +648,34 @@
           <folding>
             <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/hey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+          <folding>
+            <element signature="n#!!doc;n#trad#0" expanded="false" />
+>>>>>>> commit du TP1avec Php
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1632">
           <caret line="96" column="10" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="5" selection-end-column="41" />
+>>>>>>> commit du TP1avec Php
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/apropos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -372,10 +700,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/myfunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Présentation.html" />
+    <entry file="file://$PROJECT_DIR$/TP1.html" />
+    <entry file="file://$PROJECT_DIR$/Livre d'or.html" />
+    <entry file="file://$PROJECT_DIR$/TPCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+>>>>>>> commit du TP1avec Php
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/accueil.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2159">
@@ -383,18 +736,34 @@
           <folding>
             <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/hey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#trad#0" expanded="false" />
+>>>>>>> commit du TP1avec Php
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="13" selection-start-line="39" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
+>>>>>>> commit du TP1avec Php
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/apropos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -419,10 +788,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
           <caret line="86" column="19" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/myfunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Livre d'or.html" />
+    <entry file="file://$PROJECT_DIR$/Présentation.html" />
+    <entry file="file://$PROJECT_DIR$/TP1.html" />
+    <entry file="file://$PROJECT_DIR$/TPCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> commit du TP1avec Php
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/accueil.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -438,10 +832,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+=======
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="13" selection-start-line="39" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myfunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+>>>>>>> commit du TP1avec Php
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/apropos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -536,10 +952,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/Livre d'or.html" />
+    <entry file="file://$PROJECT_DIR$/Présentation.html" />
+    <entry file="file://$PROJECT_DIR$/TP1.html" />
+    <entry file="file://$PROJECT_DIR$/TPCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" column="59" selection-start-line="118" selection-start-column="59" selection-end-line="118" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Présentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Livre d'or.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+>>>>>>> commit du TP1avec Php
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/stylesheetaccueiljour.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -575,10 +1070,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-344">
           <caret line="168" column="16" selection-start-line="168" selection-start-column="16" selection-end-line="168" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/img/images.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/traitement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/toupie.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Présentation.html" />
+    <entry file="file://$PROJECT_DIR$/TP1.html" />
+    <entry file="file://$PROJECT_DIR$/hey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc;n#trad#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+>>>>>>> commit du TP1avec Php
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/aproposenglish.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -593,18 +1136,47 @@
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/connexion.html" />
+    <entry file="file://$PROJECT_DIR$/Livre d'or.html" />
+    <entry file="file://$PROJECT_DIR$/deconnexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1476919738244" expanded="true" signature="236:259" ph="..." />
+            <marker date="1476919738244" expanded="true" signature="429:448" ph="..." />
+>>>>>>> commit du TP1avec Php
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/accueilenglish.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+=======
+    <entry file="file://$PROJECT_DIR$/TPCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> commit du TP1avec Php
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/accueil.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1565">
@@ -612,27 +1184,107 @@
           <folding>
             <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/TP1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <marker date="1476920717961" expanded="true" signature="709:845" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="997:1006" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="2427:2556" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="2708:3782" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="2795:2902" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="2923:3025" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="3046:3144" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="3165:3274" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="3295:3395" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="3416:3524" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="3545:3644" ph="..." />
+            <marker date="1476920717961" expanded="true" signature="3665:3761" ph="..." />
+>>>>>>> commit du TP1avec Php
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
     <entry file="file://$PROJECT_DIR$/livredor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-225">
           <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
           <folding>
             <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+=======
+    <entry file="file://$PROJECT_DIR$/Présentation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3506">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1476918795266" expanded="true" signature="408:1063" ph="..." />
+            <marker date="1476918795266" expanded="true" signature="419:602" ph="..." />
+            <marker date="1476918795266" expanded="true" signature="613:1063" ph="..." />
+            <marker date="1476918795266" expanded="true" signature="664:1063" ph="..." />
+            <marker date="1476918795266" expanded="true" signature="676:1013" ph="..." />
+>>>>>>> commit du TP1avec Php
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3506">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/Livre d'or.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+>>>>>>> commit du TP1avec Php
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< a293a9e1d0b9f6783ea6e65b35554814ed2a7009
+=======
+    <entry file="file://$PROJECT_DIR$/fonctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding>
+            <marker date="1476922776233" expanded="true" signature="168:200" ph="SELECT count... User" />
+            <marker date="1476922776233" expanded="true" signature="168:201" ph="SELECT count... User" />
+            <marker date="1476922776233" expanded="true" signature="168:213" ph="SELECT count... User" />
+            <marker date="1476922776233" expanded="true" signature="168:214" ph="SELECT count... User" />
+            <marker date="1476922776233" expanded="true" signature="168:217" ph="SELECT count... User" />
+            <marker date="1476922776233" expanded="true" signature="168:273" ph="SELECT count... User" />
+            <marker date="1476922776233" expanded="true" signature="405:473" ph="INSERT INTO User... " />
+            <marker date="1476922776233" expanded="true" signature="659:705" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="659:716" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="659:719" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="659:720" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="659:721" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="659:731" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="659:734" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="659:738" ph="INSERT INTO Comments... " />
+            <marker date="1476922776233" expanded="true" signature="929:947" ph="SELECT * FRO... User" />
+            <marker date="1476922776233" expanded="true" signature="929:948" ph="SELECT count... User" />
+            <marker date="1476922776233" expanded="true" signature="929:973" ph="SELECT * FRO... User" />
+            <marker date="1476922776233" expanded="true" signature="929:997" ph="SELECT * FRO... User" />
+            <marker date="1476922776233" expanded="true" signature="1396:1442" ph="SELECT * FRO... Comments" />
+            <marker date="1476922776233" expanded="true" signature="1748:1820" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> commit du TP1avec Php
   </component>
 </project>
